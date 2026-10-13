@@ -1,5 +1,4 @@
 # eerste_repo
 
-gast ik moest die readme aanmaken
-bro das echt crazy
-dat is een opinini
+Student1: Brecht Craeynest
+Student2: Floran Dhont
